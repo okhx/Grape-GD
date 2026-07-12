@@ -3,4 +3,4 @@ An advanced Geometry Dash Bot! 🍇  Based on Silicate, Free to Use. Compatible 
 
 Open-Source, Free-to-Use, Easy & Fast.
 
-'xx.07.26`
+`xx.07.26`
