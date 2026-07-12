@@ -8,8 +8,8 @@ Open-Source, Free-to-Use, Easy & Fast.
 Bot is in "Pasted" state, but all stuff will be rewritten ASAP.
 
 State:
-`3/6`
-- [ ] UI.
+`4/6`
+- [x] UI.
 - [x] New Macro Editor.
 - [x] Themes.
 - [ ] New Logic.
