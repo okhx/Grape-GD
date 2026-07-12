@@ -5,7 +5,7 @@ Open-Source, Free-to-Use, Easy & Fast.
 
 `xx.07.26`
 
-bot is pasted, but all stuff will be rewritten as possible.
+Bot is in "Pasted" state, but all stuff will be rewritten ASAP.
 
 State:
 `4/7`
