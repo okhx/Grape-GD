@@ -13,5 +13,5 @@ State:
 - [x] New Macro Editor.
 - [x] Themes.
 - [ ] **[Second Step]** New Logic.
-- [ ] **[Working]** All Device Compatible.
+- [ ] **[W.I.P]** All Device Compatible. (iOS - 75% | Android - ?)
 - [ ] Best Bot.
