@@ -12,7 +12,7 @@ State:
 - [x] UI.
 - [x] New Macro Editor.
 - [x] Themes.
-- [x] New Logic.
+- [ ] New Logic.
 - [x] All Device Compatible. (Implementing new features)
 - [ ] Best Bot.
 
